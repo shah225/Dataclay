@@ -33,7 +33,7 @@ hello-family/
 2. Open a new terminal and run the client script:
    ```bash
    docker exec -it dataclayclient bash
-   python3 client/main.py
+   python3 client.py
    ```
 
 3. You will see log output showing how persons and families are created and persisted.
